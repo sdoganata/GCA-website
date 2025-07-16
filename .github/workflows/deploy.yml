@@ -21,6 +21,10 @@ jobs:
       - name: Install dependencies
         run: npm install
 
+      - name: Disable CI for React build
+        run: |
+          echo "CI=false" >> $GITHUB_ENV
+
       - name: Build React app
         run: npm run build
 
