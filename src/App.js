@@ -13,18 +13,18 @@ import TableLinks from './components/pages/TableLinks';
 const App = () => {
     return (
         <div className='container'>
-            <Navbar/>
+            <Navbar />
             <Routes>
-                <Route path="/GCA/" element={<Home/>} />
-                <Route path="/GCA/browsetable/" element={<BrowseTable/>} />
-                <Route path="/GCA/celllinetable/" element={<CellLineTable/>} />
-                <Route path="/GCA/pdxtable/" element={<PDXTable/>} />
-                <Route path="/GCA/drugtable/" element={<DrugTable/>} />
-                <Route path="/GCA/tablebrowser/" element={<TableLinks/>} />
-                <Route path="/GCA/help/" element={<Help/>} />
-                <Route path="/" element={<Navigate to="/GCA/"/>} />
+                <Route path="/GCA-website/" element={<Home />} />
+                <Route path="/GCA-website/browsetable/" element={<BrowseTable />} />
+                <Route path="/GCA-website/celllinetable/" element={<CellLineTable />} />
+                <Route path="/GCA-website/pdxtable/" element={<PDXTable />} />
+                <Route path="/GCA-website/drugtable/" element={<DrugTable />} />
+                <Route path="/GCA-website/tablebrowser/" element={<TableLinks />} />
+                <Route path="/GCA-website/help/" element={<Help />} />
+                <Route path="/" element={<Navigate to="/GCA/" />} />
             </Routes>
-            <Footer/>
+            <Footer />
         </div>
     )
 }
