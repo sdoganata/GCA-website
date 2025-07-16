@@ -1,0 +1,1148 @@
+[
+  {
+    "cell": "ACH-000558",
+    "drug": "AFATINIB",
+    "zipfile": "/zipfiles/ACH-000558_AFATINIB.zip",
+    "anim": "/gif_output/ACH-000558_AFATINIB.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "ALECTINIB",
+    "zipfile": "/zipfiles/ACH-000558_ALECTINIB.zip",
+    "anim": "/gif_output/ACH-000558_ALECTINIB.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "ALISERTIB",
+    "zipfile": "/zipfiles/ACH-000558_ALISERTIB.zip",
+    "anim": "/gif_output/ACH-000558_ALISERTIB.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "ALPELISIB",
+    "zipfile": "/zipfiles/ACH-000558_ALPELISIB.zip",
+    "anim": "/gif_output/ACH-000558_ALPELISIB.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "ALVOCIDIB",
+    "zipfile": "/zipfiles/ACH-000558_ALVOCIDIB.zip",
+    "anim": "/gif_output/ACH-000558_ALVOCIDIB.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "AMUVATINIB",
+    "zipfile": "/zipfiles/ACH-000558_AMUVATINIB.zip",
+    "anim": "/gif_output/ACH-000558_AMUVATINIB.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "AT-7519",
+    "zipfile": "/zipfiles/ACH-000558_AT-7519.zip",
+    "anim": "/gif_output/ACH-000558_AT-7519.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "AXITINIB",
+    "zipfile": "/zipfiles/ACH-000558_AXITINIB.zip",
+    "anim": "/gif_output/ACH-000558_AXITINIB.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "BELINOSTAT",
+    "zipfile": "/zipfiles/ACH-000558_BELINOSTAT.zip",
+    "anim": "/gif_output/ACH-000558_BELINOSTAT.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "BEXAROTENE",
+    "zipfile": "/zipfiles/ACH-000558_BEXAROTENE.zip",
+    "anim": "/gif_output/ACH-000558_BEXAROTENE.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "BICALUTAMIDE",
+    "zipfile": "/zipfiles/ACH-000558_BICALUTAMIDE.zip",
+    "anim": "/gif_output/ACH-000558_BICALUTAMIDE.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "BLEOMYCIN",
+    "zipfile": "/zipfiles/ACH-000558_BLEOMYCIN.zip",
+    "anim": "/gif_output/ACH-000558_BLEOMYCIN.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "BMS-754807",
+    "zipfile": "/zipfiles/ACH-000558_BMS-754807.zip",
+    "anim": "/gif_output/ACH-000558_BMS-754807.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "BORTEZOMIB",
+    "zipfile": "/zipfiles/ACH-000558_BORTEZOMIB.zip",
+    "anim": "/gif_output/ACH-000558_BORTEZOMIB.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "BOSUTINIB",
+    "zipfile": "/zipfiles/ACH-000558_BOSUTINIB.zip",
+    "anim": "/gif_output/ACH-000558_BOSUTINIB.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "BRYOSTATIN 1",
+    "zipfile": "/zipfiles/ACH-000558_BRYOSTATIN 1.zip",
+    "anim": "/gif_output/ACH-000558_BRYOSTATIN 1.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "CABOZANTINIB",
+    "zipfile": "/zipfiles/ACH-000558_CABOZANTINIB.zip",
+    "anim": "/gif_output/ACH-000558_CABOZANTINIB.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "CANERTINIB",
+    "zipfile": "/zipfiles/ACH-000558_CANERTINIB.zip",
+    "anim": "/gif_output/ACH-000558_CANERTINIB.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "CARMUSTINE",
+    "zipfile": "/zipfiles/ACH-000558_CARMUSTINE.zip",
+    "anim": "/gif_output/ACH-000558_CARMUSTINE.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "CEDIRANIB",
+    "zipfile": "/zipfiles/ACH-000558_CEDIRANIB.zip",
+    "anim": "/gif_output/ACH-000558_CEDIRANIB.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "CISPLATIN",
+    "zipfile": "/zipfiles/ACH-000558_CISPLATIN.zip",
+    "anim": "/gif_output/ACH-000558_CISPLATIN.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "CRIZOTINIB",
+    "zipfile": "/zipfiles/ACH-000558_CRIZOTINIB.zip",
+    "anim": "/gif_output/ACH-000558_CRIZOTINIB.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "CYCLOPHOSPHAMIDE",
+    "zipfile": "/zipfiles/ACH-000558_CYCLOPHOSPHAMIDE.zip",
+    "anim": "/gif_output/ACH-000558_CYCLOPHOSPHAMIDE.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "CYTARABINE",
+    "zipfile": "/zipfiles/ACH-000558_CYTARABINE.zip",
+    "anim": "/gif_output/ACH-000558_CYTARABINE.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "DABRAFENIB",
+    "zipfile": "/zipfiles/ACH-000558_DABRAFENIB.zip",
+    "anim": "/gif_output/ACH-000558_DABRAFENIB.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "DACOMITINIB",
+    "zipfile": "/zipfiles/ACH-000558_DACOMITINIB.zip",
+    "anim": "/gif_output/ACH-000558_DACOMITINIB.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "DACTINOMYCIN",
+    "zipfile": "/zipfiles/ACH-000558_DACTINOMYCIN.zip",
+    "anim": "/gif_output/ACH-000558_DACTINOMYCIN.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "DASATINIB",
+    "zipfile": "/zipfiles/ACH-000558_DASATINIB.zip",
+    "anim": "/gif_output/ACH-000558_DASATINIB.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "DOCETAXEL",
+    "zipfile": "/zipfiles/ACH-000558_DOCETAXEL.zip",
+    "anim": "/gif_output/ACH-000558_DOCETAXEL.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "DORAMAPIMOD",
+    "zipfile": "/zipfiles/ACH-000558_DORAMAPIMOD.zip",
+    "anim": "/gif_output/ACH-000558_DORAMAPIMOD.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "DOXORUBICIN",
+    "zipfile": "/zipfiles/ACH-000558_DOXORUBICIN.zip",
+    "anim": "/gif_output/ACH-000558_DOXORUBICIN.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "ENTINOSTAT",
+    "zipfile": "/zipfiles/ACH-000558_ENTINOSTAT.zip",
+    "anim": "/gif_output/ACH-000558_ENTINOSTAT.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "ENZASTAURIN",
+    "zipfile": "/zipfiles/ACH-000558_ENZASTAURIN.zip",
+    "anim": "/gif_output/ACH-000558_ENZASTAURIN.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "EPIRUBICIN",
+    "zipfile": "/zipfiles/ACH-000558_EPIRUBICIN.zip",
+    "anim": "/gif_output/ACH-000558_EPIRUBICIN.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "ERLOTINIB",
+    "zipfile": "/zipfiles/ACH-000558_ERLOTINIB.zip",
+    "anim": "/gif_output/ACH-000558_ERLOTINIB.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "ETOPOSIDE",
+    "zipfile": "/zipfiles/ACH-000558_ETOPOSIDE.zip",
+    "anim": "/gif_output/ACH-000558_ETOPOSIDE.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "FILANESIB",
+    "zipfile": "/zipfiles/ACH-000558_FILANESIB.zip",
+    "anim": "/gif_output/ACH-000558_FILANESIB.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "FLUDARABINE",
+    "zipfile": "/zipfiles/ACH-000558_FLUDARABINE.zip",
+    "anim": "/gif_output/ACH-000558_FLUDARABINE.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "FORETINIB",
+    "zipfile": "/zipfiles/ACH-000558_FORETINIB.zip",
+    "anim": "/gif_output/ACH-000558_FORETINIB.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "FULVESTRANT",
+    "zipfile": "/zipfiles/ACH-000558_FULVESTRANT.zip",
+    "anim": "/gif_output/ACH-000558_FULVESTRANT.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "GEFITINIB",
+    "zipfile": "/zipfiles/ACH-000558_GEFITINIB.zip",
+    "anim": "/gif_output/ACH-000558_GEFITINIB.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "IBRUTINIB",
+    "zipfile": "/zipfiles/ACH-000558_IBRUTINIB.zip",
+    "anim": "/gif_output/ACH-000558_IBRUTINIB.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "IDELALISIB",
+    "zipfile": "/zipfiles/ACH-000558_IDELALISIB.zip",
+    "anim": "/gif_output/ACH-000558_IDELALISIB.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "IMATINIB",
+    "zipfile": "/zipfiles/ACH-000558_IMATINIB.zip",
+    "anim": "/gif_output/ACH-000558_IMATINIB.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "IRINOTECAN",
+    "zipfile": "/zipfiles/ACH-000558_IRINOTECAN.zip",
+    "anim": "/gif_output/ACH-000558_IRINOTECAN.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "LAPATINIB",
+    "zipfile": "/zipfiles/ACH-000558_LAPATINIB.zip",
+    "anim": "/gif_output/ACH-000558_LAPATINIB.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "LEFLUNOMIDE",
+    "zipfile": "/zipfiles/ACH-000558_LEFLUNOMIDE.zip",
+    "anim": "/gif_output/ACH-000558_LEFLUNOMIDE.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "LENALIDOMIDE",
+    "zipfile": "/zipfiles/ACH-000558_LENALIDOMIDE.zip",
+    "anim": "/gif_output/ACH-000558_LENALIDOMIDE.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "LESTAURTINIB",
+    "zipfile": "/zipfiles/ACH-000558_LESTAURTINIB.zip",
+    "anim": "/gif_output/ACH-000558_LESTAURTINIB.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "LINSITINIB",
+    "zipfile": "/zipfiles/ACH-000558_LINSITINIB.zip",
+    "anim": "/gif_output/ACH-000558_LINSITINIB.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "METHOTREXATE",
+    "zipfile": "/zipfiles/ACH-000558_METHOTREXATE.zip",
+    "anim": "/gif_output/ACH-000558_METHOTREXATE.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "MIDOSTAURIN",
+    "zipfile": "/zipfiles/ACH-000558_MIDOSTAURIN.zip",
+    "anim": "/gif_output/ACH-000558_MIDOSTAURIN.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "MITOXANTRONE",
+    "zipfile": "/zipfiles/ACH-000558_MITOXANTRONE.zip",
+    "anim": "/gif_output/ACH-000558_MITOXANTRONE.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "mutated",
+    "zipfile": "/zipfiles/ACH-000558_mutated.zip",
+    "anim": null
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "NAVITOCLAX",
+    "zipfile": "/zipfiles/ACH-000558_NAVITOCLAX.zip",
+    "anim": "/gif_output/ACH-000558_NAVITOCLAX.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "NELARABINE",
+    "zipfile": "/zipfiles/ACH-000558_NELARABINE.zip",
+    "anim": "/gif_output/ACH-000558_NELARABINE.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "NILOTINIB",
+    "zipfile": "/zipfiles/ACH-000558_NILOTINIB.zip",
+    "anim": "/gif_output/ACH-000558_NILOTINIB.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "NINTEDANIB",
+    "zipfile": "/zipfiles/ACH-000558_NINTEDANIB.zip",
+    "anim": "/gif_output/ACH-000558_NINTEDANIB.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "NIRAPARIB",
+    "zipfile": "/zipfiles/ACH-000558_NIRAPARIB.zip",
+    "anim": "/gif_output/ACH-000558_NIRAPARIB.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "OBATOCLAX",
+    "zipfile": "/zipfiles/ACH-000558_OBATOCLAX.zip",
+    "anim": "/gif_output/ACH-000558_OBATOCLAX.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "OLAPARIB",
+    "zipfile": "/zipfiles/ACH-000558_OLAPARIB.zip",
+    "anim": "/gif_output/ACH-000558_OLAPARIB.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "OSI-930",
+    "zipfile": "/zipfiles/ACH-000558_OSI-930.zip",
+    "anim": "/gif_output/ACH-000558_OSI-930.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "OSIMERTINIB",
+    "zipfile": "/zipfiles/ACH-000558_OSIMERTINIB.zip",
+    "anim": "/gif_output/ACH-000558_OSIMERTINIB.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "PAC-1",
+    "zipfile": "/zipfiles/ACH-000558_PAC-1.zip",
+    "anim": "/gif_output/ACH-000558_PAC-1.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "PALBOCICLIB",
+    "zipfile": "/zipfiles/ACH-000558_PALBOCICLIB.zip",
+    "anim": "/gif_output/ACH-000558_PALBOCICLIB.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "PANOBINOSTAT",
+    "zipfile": "/zipfiles/ACH-000558_PANOBINOSTAT.zip",
+    "anim": "/gif_output/ACH-000558_PANOBINOSTAT.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "PAZOPANIB",
+    "zipfile": "/zipfiles/ACH-000558_PAZOPANIB.zip",
+    "anim": "/gif_output/ACH-000558_PAZOPANIB.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "PELITINIB",
+    "zipfile": "/zipfiles/ACH-000558_PELITINIB.zip",
+    "anim": "/gif_output/ACH-000558_PELITINIB.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "PHENFORMIN",
+    "zipfile": "/zipfiles/ACH-000558_PHENFORMIN.zip",
+    "anim": "/gif_output/ACH-000558_PHENFORMIN.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "PLX-4720",
+    "zipfile": "/zipfiles/ACH-000558_PLX-4720.zip",
+    "anim": "/gif_output/ACH-000558_PLX-4720.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "PYRIMETHAMINE",
+    "zipfile": "/zipfiles/ACH-000558_PYRIMETHAMINE.zip",
+    "anim": "/gif_output/ACH-000558_PYRIMETHAMINE.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "RUCAPARIB",
+    "zipfile": "/zipfiles/ACH-000558_RUCAPARIB.zip",
+    "anim": "/gif_output/ACH-000558_RUCAPARIB.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "RUXOLITINIB",
+    "zipfile": "/zipfiles/ACH-000558_RUXOLITINIB.zip",
+    "anim": "/gif_output/ACH-000558_RUXOLITINIB.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "SELUMETINIB",
+    "zipfile": "/zipfiles/ACH-000558_SELUMETINIB.zip",
+    "anim": "/gif_output/ACH-000558_SELUMETINIB.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "SIROLIMUS",
+    "zipfile": "/zipfiles/ACH-000558_SIROLIMUS.zip",
+    "anim": "/gif_output/ACH-000558_SIROLIMUS.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "SN-38",
+    "zipfile": "/zipfiles/ACH-000558_SN-38.zip",
+    "anim": "/gif_output/ACH-000558_SN-38.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "SORAFENIB",
+    "zipfile": "/zipfiles/ACH-000558_SORAFENIB.zip",
+    "anim": "/gif_output/ACH-000558_SORAFENIB.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "SUNITINIB",
+    "zipfile": "/zipfiles/ACH-000558_SUNITINIB.zip",
+    "anim": "/gif_output/ACH-000558_SUNITINIB.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "TALAZOPARIB",
+    "zipfile": "/zipfiles/ACH-000558_TALAZOPARIB.zip",
+    "anim": "/gif_output/ACH-000558_TALAZOPARIB.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "TAMOXIFEN",
+    "zipfile": "/zipfiles/ACH-000558_TAMOXIFEN.zip",
+    "anim": "/gif_output/ACH-000558_TAMOXIFEN.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "TANESPIMYCIN",
+    "zipfile": "/zipfiles/ACH-000558_TANESPIMYCIN.zip",
+    "anim": "/gif_output/ACH-000558_TANESPIMYCIN.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "TEMSIROLIMUS",
+    "zipfile": "/zipfiles/ACH-000558_TEMSIROLIMUS.zip",
+    "anim": "/gif_output/ACH-000558_TEMSIROLIMUS.gif"
+  },
+  {
+    "cell": "ACH-000558",
+    "drug": "TENIPOSIDE",
+    "zipfile": "/zipfiles/ACH-000558_TENIPOSIDE.zip",
+    "anim": "/gif_output/ACH-000558_TENIPOSIDE.gif"
+  },
+  {
+    "cell": "ACH-000587",
+    "drug": "AFATINIB",
+    "zipfile": "/zipfiles/ACH-000587_AFATINIB.zip",
+    "anim": "/gif_output/ACH-000587_AFATINIB.gif"
+  },
+  {
+    "cell": "ACH-000587",
+    "drug": "ALECTINIB",
+    "zipfile": "/zipfiles/ACH-000587_ALECTINIB.zip",
+    "anim": "/gif_output/ACH-000587_ALECTINIB.gif"
+  },
+  {
+    "cell": "ACH-000587",
+    "drug": "ALISERTIB",
+    "zipfile": "/zipfiles/ACH-000587_ALISERTIB.zip",
+    "anim": "/gif_output/ACH-000587_ALISERTIB.gif"
+  },
+  {
+    "cell": "ACH-000587",
+    "drug": "ALPELISIB",
+    "zipfile": "/zipfiles/ACH-000587_ALPELISIB.zip",
+    "anim": "/gif_output/ACH-000587_ALPELISIB.gif"
+  },
+  {
+    "cell": "ACH-000587",
+    "drug": "ALVOCIDIB",
+    "zipfile": "/zipfiles/ACH-000587_ALVOCIDIB.zip",
+    "anim": "/gif_output/ACH-000587_ALVOCIDIB.gif"
+  },
+  {
+    "cell": "ACH-000587",
+    "drug": "AMUVATINIB",
+    "zipfile": "/zipfiles/ACH-000587_AMUVATINIB.zip",
+    "anim": "/gif_output/ACH-000587_AMUVATINIB.gif"
+  },
+  {
+    "cell": "ACH-000587",
+    "drug": "AT-7519",
+    "zipfile": "/zipfiles/ACH-000587_AT-7519.zip",
+    "anim": "/gif_output/ACH-000587_AT-7519.gif"
+  },
+  {
+    "cell": "ACH-000587",
+    "drug": "AXITINIB",
+    "zipfile": "/zipfiles/ACH-000587_AXITINIB.zip",
+    "anim": "/gif_output/ACH-000587_AXITINIB.gif"
+  },
+  {
+    "cell": "ACH-000587",
+    "drug": "BELINOSTAT",
+    "zipfile": "/zipfiles/ACH-000587_BELINOSTAT.zip",
+    "anim": "/gif_output/ACH-000587_BELINOSTAT.gif"
+  },
+  {
+    "cell": "ACH-000587",
+    "drug": "BEXAROTENE",
+    "zipfile": "/zipfiles/ACH-000587_BEXAROTENE.zip",
+    "anim": "/gif_output/ACH-000587_BEXAROTENE.gif"
+  },
+  {
+    "cell": "ACH-000587",
+    "drug": "BICALUTAMIDE",
+    "zipfile": "/zipfiles/ACH-000587_BICALUTAMIDE.zip",
+    "anim": "/gif_output/ACH-000587_BICALUTAMIDE.gif"
+  },
+  {
+    "cell": "ACH-000587",
+    "drug": "BLEOMYCIN",
+    "zipfile": "/zipfiles/ACH-000587_BLEOMYCIN.zip",
+    "anim": "/gif_output/ACH-000587_BLEOMYCIN.gif"
+  },
+  {
+    "cell": "ACH-000587",
+    "drug": "BMS-754807",
+    "zipfile": "/zipfiles/ACH-000587_BMS-754807.zip",
+    "anim": "/gif_output/ACH-000587_BMS-754807.gif"
+  },
+  {
+    "cell": "ACH-000587",
+    "drug": "BORTEZOMIB",
+    "zipfile": "/zipfiles/ACH-000587_BORTEZOMIB.zip",
+    "anim": "/gif_output/ACH-000587_BORTEZOMIB.gif"
+  },
+  {
+    "cell": "ACH-000587",
+    "drug": "BOSUTINIB",
+    "zipfile": "/zipfiles/ACH-000587_BOSUTINIB.zip",
+    "anim": "/gif_output/ACH-000587_BOSUTINIB.gif"
+  },
+  {
+    "cell": "ACH-000587",
+    "drug": "BRYOSTATIN 1",
+    "zipfile": "/zipfiles/ACH-000587_BRYOSTATIN 1.zip",
+    "anim": "/gif_output/ACH-000587_BRYOSTATIN 1.gif"
+  },
+  {
+    "cell": "ACH-000587",
+    "drug": "CABOZANTINIB",
+    "zipfile": "/zipfiles/ACH-000587_CABOZANTINIB.zip",
+    "anim": "/gif_output/ACH-000587_CABOZANTINIB.gif"
+  },
+  {
+    "cell": "ACH-000587",
+    "drug": "CANERTINIB",
+    "zipfile": "/zipfiles/ACH-000587_CANERTINIB.zip",
+    "anim": "/gif_output/ACH-000587_CANERTINIB.gif"
+  },
+  {
+    "cell": "ACH-000587",
+    "drug": "CARMUSTINE",
+    "zipfile": "/zipfiles/ACH-000587_CARMUSTINE.zip",
+    "anim": "/gif_output/ACH-000587_CARMUSTINE.gif"
+  },
+  {
+    "cell": "ACH-000587",
+    "drug": "CEDIRANIB",
+    "zipfile": "/zipfiles/ACH-000587_CEDIRANIB.zip",
+    "anim": "/gif_output/ACH-000587_CEDIRANIB.gif"
+  },
+  {
+    "cell": "ACH-000587",
+    "drug": "CISPLATIN",
+    "zipfile": "/zipfiles/ACH-000587_CISPLATIN.zip",
+    "anim": "/gif_output/ACH-000587_CISPLATIN.gif"
+  },
+  {
+    "cell": "ACH-000587",
+    "drug": "CRIZOTINIB",
+    "zipfile": "/zipfiles/ACH-000587_CRIZOTINIB.zip",
+    "anim": "/gif_output/ACH-000587_CRIZOTINIB.gif"
+  },
+  {
+    "cell": "ACH-000587",
+    "drug": "CYCLOPHOSPHAMIDE",
+    "zipfile": "/zipfiles/ACH-000587_CYCLOPHOSPHAMIDE.zip",
+    "anim": "/gif_output/ACH-000587_CYCLOPHOSPHAMIDE.gif"
+  },
+  {
+    "cell": "ACH-000587",
+    "drug": "CYTARABINE",
+    "zipfile": "/zipfiles/ACH-000587_CYTARABINE.zip",
+    "anim": "/gif_output/ACH-000587_CYTARABINE.gif"
+  },
+  {
+    "cell": "ACH-000587",
+    "drug": "DABRAFENIB",
+    "zipfile": "/zipfiles/ACH-000587_DABRAFENIB.zip",
+    "anim": "/gif_output/ACH-000587_DABRAFENIB.gif"
+  },
+  {
+    "cell": "ACH-000587",
+    "drug": "DACOMITINIB",
+    "zipfile": "/zipfiles/ACH-000587_DACOMITINIB.zip",
+    "anim": "/gif_output/ACH-000587_DACOMITINIB.gif"
+  },
+  {
+    "cell": "ACH-000587",
+    "drug": "DACTINOMYCIN",
+    "zipfile": "/zipfiles/ACH-000587_DACTINOMYCIN.zip",
+    "anim": "/gif_output/ACH-000587_DACTINOMYCIN.gif"
+  },
+  {
+    "cell": "ACH-000587",
+    "drug": "DASATINIB",
+    "zipfile": "/zipfiles/ACH-000587_DASATINIB.zip",
+    "anim": "/gif_output/ACH-000587_DASATINIB.gif"
+  },
+  {
+    "cell": "ACH-000587",
+    "drug": "DOCETAXEL",
+    "zipfile": "/zipfiles/ACH-000587_DOCETAXEL.zip",
+    "anim": "/gif_output/ACH-000587_DOCETAXEL.gif"
+  },
+  {
+    "cell": "ACH-000587",
+    "drug": "mutated",
+    "zipfile": "/zipfiles/ACH-000587_mutated.zip",
+    "anim": null
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "AFATINIB",
+    "zipfile": "/zipfiles/ACH-000681_AFATINIB.zip",
+    "anim": "/gif_output/ACH-000681_AFATINIB.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "ALECTINIB",
+    "zipfile": "/zipfiles/ACH-000681_ALECTINIB.zip",
+    "anim": "/gif_output/ACH-000681_ALECTINIB.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "ALISERTIB",
+    "zipfile": "/zipfiles/ACH-000681_ALISERTIB.zip",
+    "anim": "/gif_output/ACH-000681_ALISERTIB.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "ALPELISIB",
+    "zipfile": "/zipfiles/ACH-000681_ALPELISIB.zip",
+    "anim": "/gif_output/ACH-000681_ALPELISIB.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "ALVOCIDIB",
+    "zipfile": "/zipfiles/ACH-000681_ALVOCIDIB.zip",
+    "anim": "/gif_output/ACH-000681_ALVOCIDIB.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "AMUVATINIB",
+    "zipfile": "/zipfiles/ACH-000681_AMUVATINIB.zip",
+    "anim": "/gif_output/ACH-000681_AMUVATINIB.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "AT-7519",
+    "zipfile": "/zipfiles/ACH-000681_AT-7519.zip",
+    "anim": "/gif_output/ACH-000681_AT-7519.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "AXITINIB",
+    "zipfile": "/zipfiles/ACH-000681_AXITINIB.zip",
+    "anim": "/gif_output/ACH-000681_AXITINIB.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "BELINOSTAT",
+    "zipfile": "/zipfiles/ACH-000681_BELINOSTAT.zip",
+    "anim": "/gif_output/ACH-000681_BELINOSTAT.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "BEXAROTENE",
+    "zipfile": "/zipfiles/ACH-000681_BEXAROTENE.zip",
+    "anim": "/gif_output/ACH-000681_BEXAROTENE.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "BICALUTAMIDE",
+    "zipfile": "/zipfiles/ACH-000681_BICALUTAMIDE.zip",
+    "anim": "/gif_output/ACH-000681_BICALUTAMIDE.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "BLEOMYCIN",
+    "zipfile": "/zipfiles/ACH-000681_BLEOMYCIN.zip",
+    "anim": "/gif_output/ACH-000681_BLEOMYCIN.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "BMS-754807",
+    "zipfile": "/zipfiles/ACH-000681_BMS-754807.zip",
+    "anim": "/gif_output/ACH-000681_BMS-754807.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "BORTEZOMIB",
+    "zipfile": "/zipfiles/ACH-000681_BORTEZOMIB.zip",
+    "anim": "/gif_output/ACH-000681_BORTEZOMIB.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "BOSUTINIB",
+    "zipfile": "/zipfiles/ACH-000681_BOSUTINIB.zip",
+    "anim": "/gif_output/ACH-000681_BOSUTINIB.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "BRYOSTATIN 1",
+    "zipfile": "/zipfiles/ACH-000681_BRYOSTATIN 1.zip",
+    "anim": "/gif_output/ACH-000681_BRYOSTATIN 1.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "CABOZANTINIB",
+    "zipfile": "/zipfiles/ACH-000681_CABOZANTINIB.zip",
+    "anim": "/gif_output/ACH-000681_CABOZANTINIB.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "CANERTINIB",
+    "zipfile": "/zipfiles/ACH-000681_CANERTINIB.zip",
+    "anim": "/gif_output/ACH-000681_CANERTINIB.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "CARMUSTINE",
+    "zipfile": "/zipfiles/ACH-000681_CARMUSTINE.zip",
+    "anim": "/gif_output/ACH-000681_CARMUSTINE.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "CEDIRANIB",
+    "zipfile": "/zipfiles/ACH-000681_CEDIRANIB.zip",
+    "anim": "/gif_output/ACH-000681_CEDIRANIB.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "CISPLATIN",
+    "zipfile": "/zipfiles/ACH-000681_CISPLATIN.zip",
+    "anim": "/gif_output/ACH-000681_CISPLATIN.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "CRIZOTINIB",
+    "zipfile": "/zipfiles/ACH-000681_CRIZOTINIB.zip",
+    "anim": "/gif_output/ACH-000681_CRIZOTINIB.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "CYCLOPHOSPHAMIDE",
+    "zipfile": "/zipfiles/ACH-000681_CYCLOPHOSPHAMIDE.zip",
+    "anim": "/gif_output/ACH-000681_CYCLOPHOSPHAMIDE.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "CYTARABINE",
+    "zipfile": "/zipfiles/ACH-000681_CYTARABINE.zip",
+    "anim": "/gif_output/ACH-000681_CYTARABINE.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "DABRAFENIB",
+    "zipfile": "/zipfiles/ACH-000681_DABRAFENIB.zip",
+    "anim": "/gif_output/ACH-000681_DABRAFENIB.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "DACOMITINIB",
+    "zipfile": "/zipfiles/ACH-000681_DACOMITINIB.zip",
+    "anim": "/gif_output/ACH-000681_DACOMITINIB.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "DACTINOMYCIN",
+    "zipfile": "/zipfiles/ACH-000681_DACTINOMYCIN.zip",
+    "anim": "/gif_output/ACH-000681_DACTINOMYCIN.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "DASATINIB",
+    "zipfile": "/zipfiles/ACH-000681_DASATINIB.zip",
+    "anim": "/gif_output/ACH-000681_DASATINIB.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "DOCETAXEL",
+    "zipfile": "/zipfiles/ACH-000681_DOCETAXEL.zip",
+    "anim": "/gif_output/ACH-000681_DOCETAXEL.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "DORAMAPIMOD",
+    "zipfile": "/zipfiles/ACH-000681_DORAMAPIMOD.zip",
+    "anim": "/gif_output/ACH-000681_DORAMAPIMOD.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "DOXORUBICIN",
+    "zipfile": "/zipfiles/ACH-000681_DOXORUBICIN.zip",
+    "anim": "/gif_output/ACH-000681_DOXORUBICIN.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "ENTINOSTAT",
+    "zipfile": "/zipfiles/ACH-000681_ENTINOSTAT.zip",
+    "anim": "/gif_output/ACH-000681_ENTINOSTAT.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "ENZASTAURIN",
+    "zipfile": "/zipfiles/ACH-000681_ENZASTAURIN.zip",
+    "anim": "/gif_output/ACH-000681_ENZASTAURIN.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "EPIRUBICIN",
+    "zipfile": "/zipfiles/ACH-000681_EPIRUBICIN.zip",
+    "anim": "/gif_output/ACH-000681_EPIRUBICIN.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "ERLOTINIB",
+    "zipfile": "/zipfiles/ACH-000681_ERLOTINIB.zip",
+    "anim": "/gif_output/ACH-000681_ERLOTINIB.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "ETOPOSIDE",
+    "zipfile": "/zipfiles/ACH-000681_ETOPOSIDE.zip",
+    "anim": "/gif_output/ACH-000681_ETOPOSIDE.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "FILANESIB",
+    "zipfile": "/zipfiles/ACH-000681_FILANESIB.zip",
+    "anim": "/gif_output/ACH-000681_FILANESIB.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "FLUDARABINE",
+    "zipfile": "/zipfiles/ACH-000681_FLUDARABINE.zip",
+    "anim": "/gif_output/ACH-000681_FLUDARABINE.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "FORETINIB",
+    "zipfile": "/zipfiles/ACH-000681_FORETINIB.zip",
+    "anim": "/gif_output/ACH-000681_FORETINIB.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "FULVESTRANT",
+    "zipfile": "/zipfiles/ACH-000681_FULVESTRANT.zip",
+    "anim": "/gif_output/ACH-000681_FULVESTRANT.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "GEFITINIB",
+    "zipfile": "/zipfiles/ACH-000681_GEFITINIB.zip",
+    "anim": "/gif_output/ACH-000681_GEFITINIB.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "IBRUTINIB",
+    "zipfile": "/zipfiles/ACH-000681_IBRUTINIB.zip",
+    "anim": "/gif_output/ACH-000681_IBRUTINIB.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "IDELALISIB",
+    "zipfile": "/zipfiles/ACH-000681_IDELALISIB.zip",
+    "anim": "/gif_output/ACH-000681_IDELALISIB.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "IMATINIB",
+    "zipfile": "/zipfiles/ACH-000681_IMATINIB.zip",
+    "anim": "/gif_output/ACH-000681_IMATINIB.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "IRINOTECAN",
+    "zipfile": "/zipfiles/ACH-000681_IRINOTECAN.zip",
+    "anim": "/gif_output/ACH-000681_IRINOTECAN.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "LAPATINIB",
+    "zipfile": "/zipfiles/ACH-000681_LAPATINIB.zip",
+    "anim": "/gif_output/ACH-000681_LAPATINIB.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "LEFLUNOMIDE",
+    "zipfile": "/zipfiles/ACH-000681_LEFLUNOMIDE.zip",
+    "anim": "/gif_output/ACH-000681_LEFLUNOMIDE.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "LENALIDOMIDE",
+    "zipfile": "/zipfiles/ACH-000681_LENALIDOMIDE.zip",
+    "anim": "/gif_output/ACH-000681_LENALIDOMIDE.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "LESTAURTINIB",
+    "zipfile": "/zipfiles/ACH-000681_LESTAURTINIB.zip",
+    "anim": "/gif_output/ACH-000681_LESTAURTINIB.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "LINSITINIB",
+    "zipfile": "/zipfiles/ACH-000681_LINSITINIB.zip",
+    "anim": "/gif_output/ACH-000681_LINSITINIB.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "METHOTREXATE",
+    "zipfile": "/zipfiles/ACH-000681_METHOTREXATE.zip",
+    "anim": "/gif_output/ACH-000681_METHOTREXATE.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "MIDOSTAURIN",
+    "zipfile": "/zipfiles/ACH-000681_MIDOSTAURIN.zip",
+    "anim": "/gif_output/ACH-000681_MIDOSTAURIN.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "MITOXANTRONE",
+    "zipfile": "/zipfiles/ACH-000681_MITOXANTRONE.zip",
+    "anim": "/gif_output/ACH-000681_MITOXANTRONE.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "mutated",
+    "zipfile": "/zipfiles/ACH-000681_mutated.zip",
+    "anim": null
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "NAVITOCLAX",
+    "zipfile": "/zipfiles/ACH-000681_NAVITOCLAX.zip",
+    "anim": "/gif_output/ACH-000681_NAVITOCLAX.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "NELARABINE",
+    "zipfile": "/zipfiles/ACH-000681_NELARABINE.zip",
+    "anim": "/gif_output/ACH-000681_NELARABINE.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "NILOTINIB",
+    "zipfile": "/zipfiles/ACH-000681_NILOTINIB.zip",
+    "anim": "/gif_output/ACH-000681_NILOTINIB.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "NINTEDANIB",
+    "zipfile": "/zipfiles/ACH-000681_NINTEDANIB.zip",
+    "anim": "/gif_output/ACH-000681_NINTEDANIB.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "NIRAPARIB",
+    "zipfile": "/zipfiles/ACH-000681_NIRAPARIB.zip",
+    "anim": "/gif_output/ACH-000681_NIRAPARIB.gif"
+  },
+  {
+    "cell": "ACH-000681",
+    "drug": "OBATOCLAX",
+    "zipfile": "/zipfiles/ACH-000681_OBATOCLAX.zip",
+    "anim": "/gif_output/ACH-000681_OBATOCLAX.gif"
+  },
+  {
+    "cell": "ACH-001368",
+    "drug": "AFATINIB",
+    "zipfile": "/zipfiles/ACH-001368_AFATINIB.zip",
+    "anim": "/gif_output/ACH-001368_AFATINIB.gif"
+  },
+  {
+    "cell": "ACH-001368",
+    "drug": "ALECTINIB",
+    "zipfile": "/zipfiles/ACH-001368_ALECTINIB.zip",
+    "anim": "/gif_output/ACH-001368_ALECTINIB.gif"
+  },
+  {
+    "cell": "ACH-001368",
+    "drug": "ALISERTIB",
+    "zipfile": "/zipfiles/ACH-001368_ALISERTIB.zip",
+    "anim": "/gif_output/ACH-001368_ALISERTIB.gif"
+  },
+  {
+    "cell": "ACH-001368",
+    "drug": "ALPELISIB",
+    "zipfile": "/zipfiles/ACH-001368_ALPELISIB.zip",
+    "anim": "/gif_output/ACH-001368_ALPELISIB.gif"
+  },
+  {
+    "cell": "ACH-001368",
+    "drug": "ALVOCIDIB",
+    "zipfile": "/zipfiles/ACH-001368_ALVOCIDIB.zip",
+    "anim": "/gif_output/ACH-001368_ALVOCIDIB.gif"
+  },
+  {
+    "cell": "ACH-001368",
+    "drug": "AMUVATINIB",
+    "zipfile": "/zipfiles/ACH-001368_AMUVATINIB.zip",
+    "anim": "/gif_output/ACH-001368_AMUVATINIB.gif"
+  },
+  {
+    "cell": "ACH-001368",
+    "drug": "AT-7519",
+    "zipfile": "/zipfiles/ACH-001368_AT-7519.zip",
+    "anim": "/gif_output/ACH-001368_AT-7519.gif"
+  },
+  {
+    "cell": "ACH-001368",
+    "drug": "AXITINIB",
+    "zipfile": "/zipfiles/ACH-001368_AXITINIB.zip",
+    "anim": "/gif_output/ACH-001368_AXITINIB.gif"
+  },
+  {
+    "cell": "ACH-001368",
+    "drug": "BELINOSTAT",
+    "zipfile": "/zipfiles/ACH-001368_BELINOSTAT.zip",
+    "anim": "/gif_output/ACH-001368_BELINOSTAT.gif"
+  },
+  {
+    "cell": "ACH-001368",
+    "drug": "BEXAROTENE",
+    "zipfile": "/zipfiles/ACH-001368_BEXAROTENE.zip",
+    "anim": "/gif_output/ACH-001368_BEXAROTENE.gif"
+  },
+  {
+    "cell": "ACH-001368",
+    "drug": "BICALUTAMIDE",
+    "zipfile": "/zipfiles/ACH-001368_BICALUTAMIDE.zip",
+    "anim": "/gif_output/ACH-001368_BICALUTAMIDE.gif"
+  },
+  {
+    "cell": "ACH-001368",
+    "drug": "BLEOMYCIN",
+    "zipfile": "/zipfiles/ACH-001368_BLEOMYCIN.zip",
+    "anim": "/gif_output/ACH-001368_BLEOMYCIN.gif"
+  },
+  {
+    "cell": "ACH-001368",
+    "drug": "BMS-754807",
+    "zipfile": "/zipfiles/ACH-001368_BMS-754807.zip",
+    "anim": "/gif_output/ACH-001368_BMS-754807.gif"
+  },
+  {
+    "cell": "ACH-001368",
+    "drug": "BORTEZOMIB",
+    "zipfile": "/zipfiles/ACH-001368_BORTEZOMIB.zip",
+    "anim": "/gif_output/ACH-001368_BORTEZOMIB.gif"
+  },
+  {
+    "cell": "ACH-001368",
+    "drug": "BOSUTINIB",
+    "zipfile": "/zipfiles/ACH-001368_BOSUTINIB.zip",
+    "anim": "/gif_output/ACH-001368_BOSUTINIB.gif"
+  },
+  {
+    "cell": "ACH-001368",
+    "drug": "BRYOSTATIN 1",
+    "zipfile": "/zipfiles/ACH-001368_BRYOSTATIN 1.zip",
+    "anim": "/gif_output/ACH-001368_BRYOSTATIN 1.gif"
+  },
+  {
+    "cell": "ACH-001368",
+    "drug": "CABOZANTINIB",
+    "zipfile": "/zipfiles/ACH-001368_CABOZANTINIB.zip",
+    "anim": "/gif_output/ACH-001368_CABOZANTINIB.gif"
+  },
+  {
+    "cell": "ACH-001368",
+    "drug": "CANERTINIB",
+    "zipfile": "/zipfiles/ACH-001368_CANERTINIB.zip",
+    "anim": "/gif_output/ACH-001368_CANERTINIB.gif"
+  }
+]
