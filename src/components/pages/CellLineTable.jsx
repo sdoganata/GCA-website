@@ -17,7 +17,7 @@ const CellLineTable = () => {
 
   return (
     <div className="page-div">
-    
+
       <h2 className="table-title">Cell-Line Networks</h2>
       <table className="browse-table">
         <thead>
@@ -32,7 +32,7 @@ const CellLineTable = () => {
               <td>{file}</td>
               <td>
                 <a
-                  href={`../src/assets/cell_line_networks/${file}`}
+                  href={process.env.PUBLIC_URL + `/assets/cell_line_networks/${file}`}
                   download
                   className="bg-blue-500 text-white px-3 py-1 rounded hover:bg-blue-700"
                 >
@@ -44,7 +44,7 @@ const CellLineTable = () => {
         </tbody>
       </table>
     </div>
-    
+
   );
 };
 

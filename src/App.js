@@ -22,7 +22,7 @@ const App = () => {
                 <Route path="/GCA-website/drugtable/" element={<DrugTable />} />
                 <Route path="/GCA-website/tablebrowser/" element={<TableLinks />} />
                 <Route path="/GCA-website/help/" element={<Help />} />
-                <Route path="/" element={<Navigate to="/GCA/" />} />
+                <Route path="/" element={<Navigate to="/GCA-website/" />} />
             </Routes>
             <Footer />
         </div>

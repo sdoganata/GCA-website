@@ -9,9 +9,9 @@ const Navbar = () => {
         <img className='banner-navbar' src={netlab_banner} alt="Netlab Banner" />
       </a>
       <div className='navbar-links'>
-        <Link to="/GCA/" className={'navbar-link'}>Home</Link>
-        <Link to="/GCA/tablebrowser/" className={'navbar-link'}>Browse</Link>
-        <Link to="/GCA/help/" className={'navbar-link'}>Help</Link>
+        <Link to="/GCA-website/" className={'navbar-link'}>Home</Link>
+        <Link to="/GCA-website/tablebrowser/" className={'navbar-link'}>Browse</Link>
+        <Link to="/GCA-website/help/" className={'navbar-link'}>Help</Link>
       </div>
     </nav>
   )
